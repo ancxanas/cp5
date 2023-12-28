@@ -1,0 +1,9 @@
+label > input {
+  padding: 5px;
+  width: 60%;
+  margin: 10px;
+}
+
+.submit-button {
+  margin-bottom: 5px;
+}
